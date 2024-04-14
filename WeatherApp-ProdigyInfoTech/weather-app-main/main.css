@@ -6,7 +6,7 @@
 
 body {
   font-family: 'montserrat', sans-serif;
-  background-image: url('my_bg.jpeg');
+  background-image: url('bg1.jpg');
   background-size: cover;
   background-position: top center;
 }
@@ -31,11 +31,11 @@ header input {
   padding: 10px 15px;
   border: none;
   outline: none;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color:white;
   border-radius: 0px 16px 0px 16px;
-  border-bottom: 3px solid gray;
+  border-bottom: 3px solid lightslategray;
 
-  color: #313131;
+  color: black;
   font-size: 20px;
   font-weight: 300;
   transition: 0.2s ease-out;
